@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on mastering data types in JS
 - 🌱 I’m currently learning JavaScript, never stopped! :beginner::test_tube::black_nib:
 - 👯 I’m looking to collaborate on anything open source! :package:
-- 🤔 I’m looking for help with moving to Canada! :canada::smile:
 - 💬 Ask me about traveling, hiking, outdoorsy activities! :airplane::hiking_boot::sunrise_over_mountains:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/cule219/)
 
